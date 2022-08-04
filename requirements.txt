@@ -1,0 +1,6 @@
+flask
+flask-sqlalchemy
+marshmallow_sqlalchemy
+marshmallow
+pymysql
+cryptography
